@@ -47,6 +47,5 @@
 	<true/>
 	<key>NSCameraUsageDescription</key>
 	<string>ต้องการใช้กล้อง</string>
-
 </dict>
 </plist>
